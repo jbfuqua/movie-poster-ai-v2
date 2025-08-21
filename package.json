@@ -1,9 +1,7 @@
-json{
+{
   "name": "movie-poster-ai-v2",
   "version": "1.0.0",
-  "dependencies": {
-    "node-fetch": "^2.7.0"
-  },
+  "type": "module",
   "engines": {
     "node": "18.x"
   }
